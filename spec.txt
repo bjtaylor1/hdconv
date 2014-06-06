@@ -1,0 +1,11 @@
+int: contourcount
+contour[]
+
+where contour is:
+height: int
+minX: float
+minY: float
+maxX: float
+maxY: float
+poscount: int (number of pairs)
+pos: float[] (2xposcount, x,y,x,y etc.)
